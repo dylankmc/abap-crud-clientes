@@ -42,8 +42,7 @@ Através de botões, o usuário pode acessar as transações:
 
 -Z002 (Editar)
 <img width="1919" height="999" alt="Edit" src="https://github.com/user-attachments/assets/f83fb9b5-6e1e-4cde-b086-ac8199391433" />
-<img width="1919" height="1001" alt="Captura de tela 2026-03-24 233357" src="https://github.com/user-attachments/assets/f17adb12-0eef-4e7f-9f94-85c08865a705" />
-
+<img width="1919" height="1000" alt="Captura de tela 2026-03-24 233343" src="https://github.com/user-attachments/assets/cbecce87-6734-4029-a845-0b44a70ac6ae" />
 
 -Z003 (Deletar)
 <img width="1919" height="1001" alt="Delete" src="https://github.com/user-attachments/assets/42572bfb-de7d-44a4-935f-0720f302faa4" />
