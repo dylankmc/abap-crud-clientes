@@ -34,17 +34,21 @@ Através de botões, o usuário pode acessar as transações:
 - Deletar (Z003)
 - Ler (Z004)
 
-## Prints
+## Demonstrações
 
 -Z001 (Criar)
-<img width="1919" height="905" alt="Captura de tela 2026-03-24 230859" src="https://github.com/user-attachments/assets/e731f728-0164-4da8-bb28-6b7fe7d52faa" />
+<img width="1919" height="949" alt="Create" src="https://github.com/user-attachments/assets/48efa083-8a16-4be1-9c07-f415fd828f15" />
+<img width="1918" height="1000" alt="image" src="https://github.com/user-attachments/assets/fc1b28a3-9a65-45fd-b330-3dd2940f68f3" />
 
 -Z002 (Editar)
-<img width="1917" height="902" alt="Captura de tela 2026-03-24 232026" src="https://github.com/user-attachments/assets/828c19af-ea9f-45a4-97d7-78dd10fdbb01" />
+<img width="1919" height="999" alt="Edit" src="https://github.com/user-attachments/assets/f83fb9b5-6e1e-4cde-b086-ac8199391433" />
+<img width="1919" height="1001" alt="Captura de tela 2026-03-24 233357" src="https://github.com/user-attachments/assets/f17adb12-0eef-4e7f-9f94-85c08865a705" />
+
 
 -Z003 (Deletar)
-<img width="1919" height="904" alt="Captura de tela 2026-03-24 232147" src="https://github.com/user-attachments/assets/954a950f-ed1f-4ec7-9ebc-adfd6fa0d06b" />
-<img width="1919" height="905" alt="Captura de tela 2026-03-24 232207" src="https://github.com/user-attachments/assets/4ec03f9d-5bda-4f72-ac27-99a742f3d12e" />
+<img width="1919" height="1001" alt="Delete" src="https://github.com/user-attachments/assets/42572bfb-de7d-44a4-935f-0720f302faa4" />
+<img width="1919" height="1002" alt="Captura de tela 2026-03-24 233425" src="https://github.com/user-attachments/assets/d1ef0ae9-412d-4ff3-acd8-8df5b8b9ed1c" />
+
 
 -Z004 (Ler)
 <img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/53f0ac91-0e4c-41e5-a64b-4732c69f9ccf" />
