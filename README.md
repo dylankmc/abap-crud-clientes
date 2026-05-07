@@ -1,10 +1,10 @@
 #  Projeto: CRUD com ALV
 #  Autor: Dylan Krausse
-#  Descrição: Sistema de cadastro com relatório ALV e Dynpro
+#  Descrição: Sistema de cadastro com relatório ALV e Open SQL
 
 # CRUD com Relatório ALV (ABAP)
 
-Projeto desenvolvido em ABAP utilizando Eclipse (IDE) com intuito de treinar ABAP clássico com ALV e Dynpro.
+Projeto desenvolvido em ABAP utilizando Eclipse (IDE) com intuito de treinar ABAP clássico com ALV.
 
 ## Funcionalidades
 - Cadastro de dados (Create)
@@ -17,6 +17,7 @@ Projeto desenvolvido em ABAP utilizando Eclipse (IDE) com intuito de treinar ABA
 - ABAP
 - Eclipse (IDE)
 - ALV (REUSE_ALV_GRID_DISPLAY)
+- Open SQL
 - Dynpro
 
 ## Desafios 
