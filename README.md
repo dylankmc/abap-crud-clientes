@@ -198,8 +198,6 @@ Contém o código relacionado à manutenção dos clientes:
 - Definição de títulos conforme a transação;
 - Recebimento do cliente selecionado pelo parâmetro de memória `ZCLIENT`.
 
-> Os arquivos possuem a extensão `.abap.txt` para facilitar a visualização, o armazenamento e o versionamento do código-fonte fora do ambiente SAP.
-
 ---
 
 ## Relatório ALV
