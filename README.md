@@ -162,8 +162,8 @@ Tabela ZCLIENTES
 abap-crud-clientes/
 │
 ├── src/
-│   ├── zcrud_alv.abap.txt
-│   └── zcrud_functions.abap.txt
+│   ├── zcrud_alv.abap
+│   └── zcrud_functions.abap
 │
 └── README.md
 ```
@@ -404,7 +404,7 @@ Crie o programa executável `ZCRUD_CLIENTE` e os includes correspondentes.
 Transfira para os objetos SAP o conteúdo disponível em:
 
 ```text
-src/zcrud_alv.abap.txt
+src/zcrud_alv.abap
 ```
 
 ### 3. Criar o Module Pool
@@ -414,7 +414,7 @@ Crie o programa Module Pool `SAPMZ_CLIENTE`, seus includes e as telas Dynpro.
 Transfira o conteúdo disponível em:
 
 ```text
-src/zcrud_functions.abap.txt
+src/zcrud_functions.abap
 ```
 
 ### 4. Configurar as telas
